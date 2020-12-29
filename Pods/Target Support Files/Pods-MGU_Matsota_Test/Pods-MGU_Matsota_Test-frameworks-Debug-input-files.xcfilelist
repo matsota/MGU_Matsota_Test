@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MGU_Matsota_Test/Pods-MGU_Matsota_Test-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireNetworkActivityLogger/AlamofireNetworkActivityLogger.framework
