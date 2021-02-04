@@ -28,7 +28,7 @@ class MainViewController: UIViewController {
     
     //MARK: - Private Implementation
     private var population: DemoResponse?
-    private lazy var viewWasLoaded: Bool = false
+    private var viewWasLoaded: Bool = false
     
     /// - `CollectionView`
     @IBOutlet private weak var collectionView: UICollectionView!
